@@ -1,0 +1,18 @@
+1)Komanda "man" vivodit stranici rukovodstva for comand;
+2)komanda "info" vivodit stranics rukovodstva v forme GNU textinofo;
+3)komanda "echo" ona vivodit text posle nego;
+4)komanda "pud" vivodit nazvanie tekushigo kataloga;
+5)komanda "date" ona pokazivaet tekushiu date and time;
+6) komanda who' pokazivaet nam users kotorii v dannij moment aftorzovani;
+7)komanda '1s' vivodit nam soderjimoe kataloga korii we ukajem;-
+8)komanda 'cat' ona pozvolyajet nam vivodit soderjimoe file kotorije we ukazali.
+
+Sat 28 Oct 2023 05:11:40 PM +05
+admin2   tty1         2023-10-28 15:44
+admin2   tty2         2023-10-28 15:55
+admin2   tty3         2023-10-28 15:54
+admin2   tty4         2023-10-28 15:55
+admin2   tty5         2023-10-28 15:55
+admin2   tty6         2023-10-28 15:55  
+
+groupe:sa-22
