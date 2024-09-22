@@ -1,5 +1,5 @@
 # Создаем словарь с кодировкой
-code = {
+dict = {
     'А': ['11000000 ', 'C0 '],
     'Б': ['11000001 ', 'C1 '],
     'В': ['11000010 ', 'C2 '],
@@ -87,11 +87,11 @@ while True:
 
 phrase = input("Введите фразу для кодирования: ")
 
-encoded_phrase = ''
+endictd_phrase = ''
 for char in phrase:
-    if char in code:
-        encoded_phrase += code[char][mode == 'binary']  # Выбираем нужную кодировку по режиму
+    if char in dict:
+        endictd_phrase += dict[char][mode == 'binary']  # Выбираем нужную кодировку по режиму
     else:
-        encoded_phrase += char
+        endictd_phrase += char
 
-print(f"Закодированная фраза в {mode} формате: {encoded_phrase}")
+print(f"Закодированная фраза в {mode} формате: {endictd_phrase}") # Моя фраза: Вот мой секрет, он очень прост: зорко одно лишь сердце. Самого главного глазами не увидишь.
